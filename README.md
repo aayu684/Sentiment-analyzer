@@ -90,10 +90,22 @@ Provides normalized emotion distribution.
 ---
 
 ## 🛠️ Tech Stack
-### Component	                       ### Technology
+### ComponenT & Technology
     Frontend	                           Streamlit + TailwindCSS
     NLP Engine	                         TextBlob + custom Hinglish & GenZ lexicons
     Visualization	                       Plotly (Gauge, Radar, Line)
     Programming	                         Python 3.8+
     Data Handling	                       NumPy, Pandas
     Styling	                             Custom CSS + Glassmorphism
+
+---
+
+## 📂 Project Structure
+
+'''bash
+📁 sentiment-analyzer/
+ ├── app.py
+ ├── requirements.txt
+ ├── README.md
+
+
