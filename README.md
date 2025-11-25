@@ -142,7 +142,57 @@ Once opened:
 - Gen Z Mode
 
 3. Click Analyze Sentiment
+### 📊 Output Includes:
+1. Final sentiment label (Positive/Negative/Neutral)
 
+2. Emoji + color-coded sentiment card
+
+3. Confidence score gauge
+
+4. Slang intensity score
+
+5. Emotion detection chart
+
+6. Radar chart of:
+
+- Polarity
+
+- Confidence
+
+- Subjectivity
+
+- Slang score
+
+7. Session trend chart
+
+8. CSV download link
+
+---
+
+## 📈 Performance (Benchmark)
+
+Tested on:
+
+- Hinglish reviews
+
+- Slang-heavy Gen Z reviews
+
+- Mixed-code reviews
+
+- Standard English reviews
+
+Achieved:
+
+- Overall accuracy: ~83%
+
+- Far higher accuracy than base TextBlob (48–52%)
+
+---
+
+## 👨‍💻 Author
+- **Aayushi soni** – [GitHub](https://github.com/aayu684) | [LinkedIn](https://www.linkedin.com/in/aayushisoni6295/)
+
+---
 
 
 
