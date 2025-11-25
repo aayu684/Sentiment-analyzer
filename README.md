@@ -26,7 +26,7 @@ This project presents an **Advanced Sentiment Analyzer** designed to accurately 
 ---
 
 ## ✨ Key Features
-###🔮 1. Hybrid Sentiment Engine
+### 🔮 1. Hybrid Sentiment Engine
 
 - Hinglish positive/negative lexicons
 
@@ -86,3 +86,14 @@ Provides normalized emotion distribution.
 - Allows CSV export
 
 - One-click clearing
+
+---
+
+## 🛠️ Tech Stack
+### Component	                       ### Technology
+    Frontend	                           Streamlit + TailwindCSS
+    NLP Engine	                         TextBlob + custom Hinglish & GenZ lexicons
+    Visualization	                       Plotly (Gauge, Radar, Line)
+    Programming	                         Python 3.8+
+    Data Handling	                       NumPy, Pandas
+    Styling	                             Custom CSS + Glassmorphism
