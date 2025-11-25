@@ -101,8 +101,7 @@ Provides normalized emotion distribution.
 ---
 
 ## 📂 Project Structure
-
-'''bash
+```bash
 📁 sentiment-analyzer/
  ├── app.py
  ├── requirements.txt
