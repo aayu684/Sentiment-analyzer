@@ -92,11 +92,11 @@ Provides normalized emotion distribution.
 ## 🛠️ Tech Stack
 ### ComponenT & Technology
     Frontend	                           Streamlit + TailwindCSS
-    NLP Engine	                         TextBlob + custom Hinglish & GenZ lexicons
+    NLP Engine	                           TextBlob + custom Hinglish & GenZ lexicons
     Visualization	                       Plotly (Gauge, Radar, Line)
-    Programming	                         Python 3.8+
+    Programming	                           Python 3.8+
     Data Handling	                       NumPy, Pandas
-    Styling	                             Custom CSS + Glassmorphism
+    Styling	                               Custom CSS + Glassmorphism
 
 ---
 
@@ -106,5 +106,43 @@ Provides normalized emotion distribution.
  ├── app.py
  ├── requirements.txt
  ├── README.md
+```
+
+---
+
+## 📥 Installation
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/your-username/sentiment-analyzer-pro
+cd sentiment-analyzer-pro
+```
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Run the Application
+```bash
+streamlit run app.py
+```
+
+---
+
+## 🧪 Usage Guide
+### ▶️ Start the App
+Once opened:
+
+1. Enter or paste a product review
+
+2. Choose from quick samples:
+
+- Positive Vibe
+
+- Negative Vibe
+
+- Gen Z Mode
+
+3. Click Analyze Sentiment
+
+
 
 
