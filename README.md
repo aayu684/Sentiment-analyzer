@@ -189,8 +189,9 @@ Achieved:
 
 ---
 
-## 👨‍💻 Author
-- **Aayushi soni** – [GitHub](https://github.com/aayu684) | [LinkedIn](https://www.linkedin.com/in/aayushisoni6295/)
+## 👨‍💻 Authors
+- **Aayushi Soni** – [GitHub](https://github.com/aayu684) | [LinkedIn](https://www.linkedin.com/in/aayushisoni6295/)
+- **Ishitaba Umat** – [GitHub](https://github.com/IshitaUmat) | [LinkedIn](https://www.linkedin.com/in/ishita-umat-4a8791282/)
 
 ---
 
